@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi 👋 My name is Ana Cecilia Flores
+My name is Ana Cecilia Flores
 ===================================
 
 Web Developer Bootcamp Student at Northwestern
@@ -8,8 +8,8 @@ Web Developer Bootcamp Student at Northwestern
 On the process of switching careers!
 
 *   🌍  I'm based in Chicago, IL, USA
-*   🖥️  See my portfolio at [GitHub](http://github.com/anacecyflores1/)
-*   🖥️  See my [LinkedIn](https://www.linkedin.com/in/anacecyflores/)
+*   🖥️  Visit my [Portfolio](https://anacecyflores1.github.io/AF-Portfolio/)
+*   🖥️  Checkout my [LinkedIn](https://www.linkedin.com/in/anacecyflores/)
 *   ✉️  You can contact me at [anacecyflores1@gmail.com](mailto:anacecyflores1@gmail.com)
 *   🧠  I'm learning HTML, CSS,JavaScript, Node, Python
 *   🤝  I'm open to collaborating on Fullstack Development
