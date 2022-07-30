@@ -1,7 +1,3 @@
-### Hi there 👋
-My name is Ana Cecilia Flores
-===================================
-
 Web Developer Bootcamp Student at Northwestern
 ----------------------------------------------
 
