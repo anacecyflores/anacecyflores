@@ -1,3 +1,16 @@
+<img src="https://github-readme-stats.vercel.app/api?username=anacecyflores1&show_icons=true&hide_rank=true&hide=stars,&count_private=true&title_color=ADEFD1FF&text_color=f5f5f5&icon_color=9CC3D5FF&bg_color=171717&hide_border=true&show_icons=true" alt="github stats"/>
+
+<br>
+
+<a href="mailto: anacecyflores1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
+  </a>
+
+
+<a href="https://www.linkedin.com/in/anacecyflores/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/>
+  </a>
+
 Web Developer Bootcamp Student at Northwestern
 ----------------------------------------------
 
