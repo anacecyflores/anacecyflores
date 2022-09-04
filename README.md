@@ -1,6 +1,6 @@
 Web Developer Bootcamp Student at Northwestern <br>
 ----------------------------------------------
-<a href="mailto: anacecyflores1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a><a href="https://www.linkedin.com/in/anacecyflores/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/></a><a href="https://cecy-professional-portfolio.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/></a>
+<a href="mailto: anacecyflores1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a><a href="https://www.linkedin.com/in/anacecyflores/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/></a><a href="https://acf-react-portfolio.herokuapp.com/#/" target="_blank"><img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/></a>
 <br>
 👩🏻‍🏫 --> 👩🏻‍💻 On the process of switching careers!
 *   📍 Chicago
