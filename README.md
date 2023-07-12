@@ -8,4 +8,4 @@ Fullstack Web Developer
 *   ⚡  Bilingual
 *   🤝  I'm open to collaborate!
 
-  <a href="https://github.com/anacecyflores1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacecyflores1&langs_count=10&title_color=ADEFD1FF&text_color=f2f5f5&icon_color=10b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/anacecyflores" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacecyflores&langs_count=10&title_color=ADEFD1FF&text_color=f2f5f5&icon_color=10b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
